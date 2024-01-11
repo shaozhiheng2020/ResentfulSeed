@@ -1,1 +1,1 @@
-项目见另一个git，正在创建中，稍后更新路径
+项目见另一个git，ResentfulSeed-Project
